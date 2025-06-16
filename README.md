@@ -7,11 +7,14 @@ A Model Context Protocol server that provides browser automation capabilities us
 - **Browser Automation**: Automates browser actions using Playwright.
 - **Context Management**: Defines and manages contexts for locators, pages, and tests.
 - **Scalability**: Enables easy scaling of test frameworks.
-- **Multi-Window Handling**: Supports interactions across multiple browser windows.
+
 
 
 # Screenshots
+
+#### Instructions
 ![alt text](mcp1.png)
+
 ![alt text](mcp.png)
 
 ## Overview
