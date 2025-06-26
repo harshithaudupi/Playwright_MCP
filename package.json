@@ -1,14 +1,20 @@
 {
-  "name": "pw_mcp",
+  "name": "miniproject_2397843",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "npx playwright test"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "description": "",
   "devDependencies": {
-    "@playwright/test": "^1.53.0",
-    "@types/node": "^24.0.1"
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.18",
+    "allure-playwright": "^3.3.0"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
   }
 }

@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "fullName": "Hasha Shetty",
+      "rediffmailId": "hasha07",
+      "password": "R@ni@1234",
+      "dobDay": "15",
+      "dobMonth": "05",
+      "dobYear": "2001",
+      "gender": "female",
+      "country": "99",
+      "city": "Mumbai",
+      "securityQuestion": "What is the name of your first school?",
+      "securityAnswer": "DAV Public School",
+      "mothersMaidenName": "Seeta",
+      "mobileNumber": "9876543210"
+    },
+    {
+      "fullName": "Raj Kumar",
+      "rediffmailId": "rajk2025",
+      "password": "K@mar#2025",
+      "dobDay": "23",
+      "dobMonth": "08",
+      "dobYear": "1995",
+      "gender": "male",
+      "country": "99",
+      "city": "Bangalore",
+      "securityQuestion": "What is your favourite pass-time?",
+      "securityAnswer": "Reading",
+      "mothersMaidenName": "Lakshmi",
+      "mobileNumber": "8765432109"
+    },
+    {
+      "fullName": "Priya Patel",
+      "rediffmailId": "priyap2025",
+      "password": "P@tel#2025",
+      "dobDay": "07",
+      "dobMonth": "11",
+      "dobYear": "1998",
+      "gender": "female",
+      "country": "99",
+      "city": "Delhi",
+      "securityQuestion": "What is your favourite food?",
+      "securityAnswer": "Pizza",
+      "mothersMaidenName": "Radha",
+      "mobileNumber": "7654321098"
+    },
+    {
+      "fullName": "Arun Singh",
+      "rediffmailId": "arunsingh",
+      "password": "S!ngh@2025",
+      "dobDay": "30",
+      "dobMonth": "03",
+      "dobYear": "1992",
+      "gender": "male",
+      "country": "99",
+      "city": "Chennai",
+      "securityQuestion": "What is your exact time of birth?",
+      "securityAnswer": "6:30 AM",
+      "mothersMaidenName": "Meena",
+      "mobileNumber": "6543210987"
+    },
+    {
+      "fullName": "Meera Shah",
+      "rediffmailId": "meerashah",
+      "password": "Sh@h#2025",
+      "dobDay": "12",
+      "dobMonth": "09",
+      "dobYear": "1997",
+      "gender": "female",
+      "country": "99",
+      "city": "Pune",
+      "securityQuestion": "What is the name of your first school?",
+      "securityAnswer": "Holy Cross",
+      "mothersMaidenName": "Geeta",
+      "mobileNumber": "9543210876"
+    }
+  ]
+}
